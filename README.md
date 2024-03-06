@@ -1,8 +1,8 @@
-# Three-Different-Games
-The first game was played discreetly at my expense, the second game was Number scrabble is played with the list of numbers between 1 and 9. Each player takes
-turns picking a number from the list. Once a number has been picked, it cannot be picked
-again. If a player has picked three numbers that add up to 15, that player wins the game.
-However, if all the numbers are used and no player gets exactly 15, the game is a draw, and the third wasSubtract a square. This is a two-player mathematical game of strategy. It is played by two
-people with a pile of coins (or other tokens) between them. The players take turns removing
-coins from the pile, always removing a non-zero square number of coins (1, 4, 9, 16, …).
-The player who removes the last coin wins.
+# Our program gives you five features
+The user is allowed to use six programs: 
+the first is a program that converts grades into grades, 
+the second is a program that checks whether the number is Armstrong, 
+the third is a program that calculates the approximate value of pi, 
+the fourth is a program that helps encrypt in a way Caesar Cipher, 
+the fifth is a program that compares two lists and sees whether they are equal or not, 
+the sixth is a program, and the last gives you the factors of the integer number that His intervention
